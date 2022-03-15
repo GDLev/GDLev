@@ -9,6 +9,4 @@
   <img width=60 height=60 src="./icons/css.png">
   <img width=60 height=60 src="./icons/php.png">
   <img width=60 height=60 src="./icons/python.png">
-  <img width=60 height=60 src="./icons/sh.png">
-  <img width=60 height=60 src="./icons/mysql.png">
 </p>
