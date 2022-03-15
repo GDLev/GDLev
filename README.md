@@ -5,7 +5,6 @@
 <p align="center">
   <img width=60 height=60 src="./icons/nodejs.png">
   <img width=60 height=60 src="./icons/js.png">
-  <img width=60 height=60 src="./icons/ejs.png">
   <img width=60 height=60 src="./icons/html.png">
   <img width=60 height=60 src="./icons/css.png">
   <img width=60 height=60 src="./icons/php.png">
