@@ -11,6 +11,10 @@
   <img width=60 height=60 src="./icons/sh.png">
  </p>
  <h2 align="center">My activity</h2>
- <div style="text-align:center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=GDLev&theme=dracula" /></div>
+  
+  <p align="center">
+  <img width="600" height="200" src="https://www.python.org/python-.png">
+</p>
+
 
 
