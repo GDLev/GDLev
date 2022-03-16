@@ -9,4 +9,6 @@
   <img width=60 height=60 src="./icons/php.png">
   <img width=60 height=60 src="./icons/python.png">
   <img width=60 height=60 src="./icons/sh.png">
+  <h2>My activity</h2>
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 </p>
