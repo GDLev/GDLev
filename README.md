@@ -9,6 +9,6 @@
   <img width=60 height=60 src="./icons/php.png">
   <img width=60 height=60 src="./icons/python.png">
   <img width=60 height=60 src="./icons/sh.png">
-  <h2>My activity</h2>
-  <center><img align="center" style="margin:0 auto;" src="https://github-readme-stats.vercel.app/api/wakatime?username=GDLev&theme=dracula" /></center>
-</p>
+ </p>
+  <h2 align="center">My activity</h2><img align="center" style="margin:0 auto;" src="https://github-readme-stats.vercel.app/api/wakatime?username=GDLev&theme=dracula" />
+
