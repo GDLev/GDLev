@@ -10,11 +10,3 @@
   <img width=60 height=60 src="./icons/python.png">
   <img width=60 height=60 src="./icons/sh.png">
  </p>
- <div align="center">
-   My activity
-  </div>
-  
-
-
-
-
