@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="daQWjUB2NQDdxYnzks8fS96dPEmulsm0iId4W5WMnWg" />
+ <meta name="google-site-verification" content="daQWjUB2NQDdxYnzks8fS96dPEmulsm0iId4W5WMnWg" />
 <h1 align="center">Hi! Im GDLev</h1>
 <p align="center">I'm a freelance programmer, so...<br>I do literally everything. all my codes are opensource and can be used without a license</p>
 <h3 align="center">What i use:<h3>
