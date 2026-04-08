@@ -1,12 +1,12 @@
 <div align="center">
 <h1>GDLev_</h1>
 
-```
+<pre>
 ╱|、
 (˚ˎ 。7
  |、˜〵
 じしˍ,)ノ
-```
+</pre>
 
 **Orange Cat · Level 19 · 1 life left**
 
