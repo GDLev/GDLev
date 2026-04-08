@@ -38,7 +38,7 @@ I build things I need, tools no one asked for, and useless minecraft mods / plug
 
 <div align="center">
 
-### what I work on
+### What I work on
 
 </div>
 
@@ -68,7 +68,7 @@ I build things I need, tools no one asked for, and useless minecraft mods / plug
 <img src="https://cdn.simpleicons.org/nextdotjs/C8344B" width="48" height="48" />
 <img src="https://cdn.simpleicons.org/tailwindcss/C8344B" width="48" height="48" />
 <img src="https://cdn.simpleicons.org/sass/C8344B" width="48" height="48" />
-
+<br/>
 <img src="https://cdn.simpleicons.org/html5/C8344B" width="48" height="48" />
 <img src="https://cdn.simpleicons.org/css/C8344B" width="48" height="48" />
 <img src="https://cdn.simpleicons.org/javascript/C8344B" width="48" height="48" />
@@ -83,7 +83,7 @@ I build things I need, tools no one asked for, and useless minecraft mods / plug
 
 <div align="center">
 
-### areas of expertise
+### Areas of expertise
 *the stuff most devs avoid*
 
 <br/>
