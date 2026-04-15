@@ -12,11 +12,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=C8344B&center=true&vCenter=true&width=560&lines=MC+Plugin+%26+Mod+Dev;Software+Engineer;Web+%26+App+Dev;Cat+(currently+alive)" alt="Typing SVG" />
 
-<a href="https://github.com/GDLev"><img src="https://cdn.simpleicons.org/github/C8344B" width="64" height="64" /></a>
+<a href="https://github.com/GDLev"><img src="https://cdn.simpleicons.org/github/C8344B?viewbox=auto&size=64"/></a>
 &nbsp;&nbsp;
-<a href="https://discord.com/users/793806224847929385"><img src="https://cdn.simpleicons.org/discord/C8344B" width="64" height="64" /></a>
+<a href="https://discord.com/users/793806224847929385"><img src="https://cdn.simpleicons.org/discord/C8344B?viewbox=auto&size=64"/></a>
 &nbsp;&nbsp;
-<a href="https://modrinth.com/user/GDLev"><img src="https://cdn.simpleicons.org/modrinth/C8344B" width="64" height="64" /></a>
+<a href="https://modrinth.com/user/GDLev"><img src="https://cdn.simpleicons.org/modrinth/C8344B?viewbox=auto&size=64"/></a>
 
 I build things I need, tools no one asked for, and useless minecraft mods / plugins at 2 AM :I
 
@@ -62,20 +62,20 @@ I build things I need, tools no one asked for, and useless minecraft mods / plug
 
 <br/>
 
-<img src="https://cdn.simpleicons.org/nodedotjs/C8344B" width="48" height="48" />
-<img src="https://cdn.simpleicons.org/typescript/C8344B" width="48" height="48" />
-<img src="https://cdn.simpleicons.org/react/C8344B" width="48" height="48" />
-<img src="https://cdn.simpleicons.org/nextdotjs/C8344B" width="48" height="48" />
-<img src="https://cdn.simpleicons.org/tailwindcss/C8344B" width="48" height="48" />
-<img src="https://cdn.simpleicons.org/sass/C8344B" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/nodedotjs/C8344B?viewbox=auto&size=48"/>
+<img src="https://cdn.simpleicons.org/typescript/C8344B?viewbox=auto&size=48"/>
+<img src="https://cdn.simpleicons.org/react/C8344B?viewbox=auto&size=48"/>
+<img src="https://cdn.simpleicons.org/nextdotjs/C8344B?viewbox=auto&size=48"/>
+<img src="https://cdn.simpleicons.org/tailwindcss/C8344B?viewbox=auto&size=48"/>
+<img src="https://cdn.simpleicons.org/sass/C8344B?viewbox=auto&size=48"/>
 <br/>
-<img src="https://cdn.simpleicons.org/html5/C8344B" width="48" height="48" />
-<img src="https://cdn.simpleicons.org/css/C8344B" width="48" height="48" />
-<img src="https://cdn.simpleicons.org/javascript/C8344B" width="48" height="48" />
-<img src="https://cdn.simpleicons.org/python/C8344B" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/html5/C8344B?viewbox=auto&size=48"/>
+<img src="https://cdn.simpleicons.org/css/C8344B?viewbox=auto&size=48"/>
+<img src="https://cdn.simpleicons.org/javascript/C8344B?viewbox=auto&size=48"/>
+<img src="https://cdn.simpleicons.org/python/C8344B?viewbox=auto&size=48"/>
 <img src="./assets/java.png" alt="java-coffee-cup-logo--v1" width="48" height="48" />
-<img src="https://cdn.simpleicons.org/mongodb/C8344B" width="48" height="48" />
-<img src="https://cdn.simpleicons.org/mariadb/C8344B" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/mongodb/C8344B?viewbox=auto&size=48"/>
+<img src="https://cdn.simpleicons.org/mariadb/C8344B?viewbox=auto&size=48"/>
 
 </div>
 
