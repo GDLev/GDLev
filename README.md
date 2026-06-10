@@ -8,7 +8,7 @@
 じしˍ,)ノ
 </pre>
 
-**Orange Cat · Level 19 · 1 life left**
+**Cat · Level 19 · 1 life left**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=C8344B&center=true&vCenter=true&width=560&lines=MC+Plugin+%26+Mod+Dev;Software+Engineer;Web+%26+App+Dev;Cat+(currently+alive)" alt="Typing SVG" />
 
