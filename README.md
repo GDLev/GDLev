@@ -14,7 +14,7 @@
 
 <a href="https://github.com/GDLev"><img src="https://cdn.simpleicons.org/github/C8344B?viewbox=auto&size=64"/></a>
 &nbsp;&nbsp;
-<a href="https://discord.com/users/793806224847929385"><img src="https://cdn.simpleicons.org/discord/C8344B?viewbox=auto&size=64"/></a>
+<a href="https://discord.gg/JyPBejzDTk"><img src="https://cdn.simpleicons.org/discord/C8344B?viewbox=auto&size=64"/></a>
 &nbsp;&nbsp;
 <a href="https://modrinth.com/user/GDLev"><img src="https://cdn.simpleicons.org/modrinth/C8344B?viewbox=auto&size=64"/></a>
 
