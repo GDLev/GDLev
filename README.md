@@ -138,7 +138,11 @@ I build things I need, tools no one asked for, and useless minecraft mods / plug
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GDLev&bg_color=00000000&color=C8344B&line=C8344B&point=C8344B3e&area=true&hide_border=true" width="700"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="Snake animation of my GitHub contributions" src="dist/github-snake.svg" width="700" />
+</picture>
 
 </div>
 
